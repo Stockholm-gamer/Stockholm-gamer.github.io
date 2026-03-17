@@ -37,3 +37,17 @@ li {
     width: 200px;
     border-radius: 10px;
 }
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #38bdf8;
+    color: black;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0ea5e9;
+}
